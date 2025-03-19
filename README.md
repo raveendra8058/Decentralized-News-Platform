@@ -75,3 +75,8 @@ DecentralizedNewsPlatform::NewsPlatform::vote_for_story(&signer, @0x1);
 ## License
 This module is open-source and available for community use and contributions.
 
+Contract Adress:  0x45f6695a048e00935c88a4bbfb5d06eaa7145a254dc6d1545bc8723e5bd6b6c0
+
+![image](https://github.com/user-attachments/assets/e5076e67-f8ca-4fab-8ca3-3cc046429d98)
+
+

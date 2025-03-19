@@ -21,3 +21,6 @@ Our vision is to create a trusted, user-driven news platform where credible info
 - **Transparency:** All content submissions and votes are stored immutably on the Aptos blockchain.
 - **Fair Contribution Model:** Ensures contributors are acknowledged for their participation.
 
+## Contract Address:
+0x7fc2a2ff1f95e1c41cb3ee1a52956c27101f986ce9512efd3e5c33449476dd5e
+![image](https://github.com/user-attachments/assets/edc1c29a-bfc1-4c8c-a59d-f42de06569b8)

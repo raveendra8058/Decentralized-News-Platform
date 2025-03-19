@@ -1,0 +1,15 @@
+[package]
+name = "NewsPlatform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+DecentralizedNewsPlatform = "0x41b5cf8466ad17cd2ab9448fb0d4367573686e45e3d8f530e0adb935c5968b32"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
